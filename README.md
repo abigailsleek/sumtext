@@ -2,7 +2,7 @@
 This is the  process of shortening long pieces of text to create a coherent and fluent summary having only the main points outlined in the document.
 Extractive summarization means identifying important sections of the text and generating them verbatim producing a subset of the sentences from the original text.
 This model was built with NLTK libraries using the extractive process using the following five steps:
-1. Creating the word frequecny table.
+1. Creating the word frequency table.
 2. Tokenize the sentences.
 3. Score the sentences using the term frequency method.
 4. Find the threshold value which the average score of the sentences.
